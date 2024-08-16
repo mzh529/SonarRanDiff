@@ -1,4 +1,4 @@
-# SonarRanDiff: Enhancing Sonar Image Segmentation through Random Fusion on Diffusion
+# Enhancing Sonar Image Segmentation with Random Fusion in a Diffusion Model Framework
 ## Environment
 Use the following command to obtain the conda environment:
 ```bash
