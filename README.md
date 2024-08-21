@@ -40,4 +40,4 @@ run: ``python scripts/segmentation_sample.py --data_name ISIC --data_dir *input 
 ## Evaluation
 run ``python scripts/segmentation_env.py --inp_pth *folder you save prediction images* --out_pth *folder you save ground truth images*``
 ## DOI
-URL：``https://zenodo.org/doi/10.5281/zenodo.13352441``
+``https://zenodo.org/doi/10.5281/zenodo.13352441``
